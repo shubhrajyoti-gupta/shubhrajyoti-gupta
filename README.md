@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Satan-chan
-- 👀 I’m interested in Game development and android development.
-- 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on Java project or C++ project
-- 📫 You can reacch me through instagram. Here's my profile link : 🔗 https://www.instagram.com/__lord__satan/#
+- 👋 Hi, I’m @shubhrajyoti-gupta
+- 👀 I’m interested in android development and full stack java Development
+- 🌱 I’m currently learning spring development and microservices
+- 💞️ I’m looking to collaborate on Java project or some UI/UX design using figma or canva
+- 📫 You can reacch me through instagram. Here's my profile link : 🔗 https://www.linkedin.com/in/shubhrajyoti-gupta
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am an ECE student pursuing B.Tech and not a CS student.
+- ⚡ Fun fact: I have a social life and I am not a nerd
 
 <!---
 Satan-chan/Satan-chan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
