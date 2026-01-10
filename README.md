@@ -27,9 +27,10 @@ src="https://img.shields.io/github/followers/shubhrajyoti-gupta?logo=github&styl
 
 ### Badges
 
+
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/shubhrajyoti-gupta"><img src="https://github-readme-stats.vercel.app/api?username=shubhrajyoti-gupta&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="shubhrajyoti-gupta's GitHub stats" /></a>
+<a href="http://www.github.com/shubhrajyoti-gupta"></a>
 
 <a href="http://www.github.com/shubhrajyoti-gupta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhrajyoti-gupta&stroke=ef4444&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
