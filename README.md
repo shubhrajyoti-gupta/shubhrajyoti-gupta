@@ -35,30 +35,16 @@ src="https://img.shields.io/github/followers/shubhrajyoti-gupta?logo=github&styl
 
 ### 📊 Top Languages
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrajyoti-gupta&langs_count=8&layout=compact&title_color=0891b2&text_color=ef4444&bg_color=ffffff&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrajyoti-gupta&layout=compact&langs_count=6)
+
 
 
 ### ⭐ Top Repositories
 
-<p align="center">
-  <a href="https://github.com/shubhrajyoti-gupta/Job-Portal-System">
-    <img width="400"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=shubhrajyoti-gupta&repo=Job-Portal-System&title_color=0891b2&text_color=ef4444&icon_color=3382ed&bg_color=ffffff&hide_border=true" />
-  </a>
-  <a href="https://github.com/shubhrajyoti-gupta/Notepad-desktop-app">
-    <img width="400"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=shubhrajyoti-gupta&repo=Notepad-desktop-app&title_color=0891b2&text_color=ef4444&icon_color=3382ed&bg_color=ffffff&hide_border=true" />
-  </a>
-</p>
+![Job Portal System](https://github-readme-stats.vercel.app/api/pin/?username=shubhrajyoti-gupta&repo=Job-Portal-System)
 
-<p align="center">
-  <a href="https://github.com/shubhrajyoti-gupta/SolarMonitor">
-    <img width="400"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=shubhrajyoti-gupta&repo=SolarMonitor&title_color=0891b2&text_color=ef4444&icon_color=3382ed&bg_color=ffffff&hide_border=true" />
-  </a>
-</p>
+![Notepad Desktop App](https://github-readme-stats.vercel.app/api/pin/?username=shubhrajyoti-gupta&repo=Notepad-desktop-app)
+
+![Solar Monitor](https://github-readme-stats.vercel.app/api/pin/?username=shubhrajyoti-gupta&repo=SolarMonitor)
+
+
