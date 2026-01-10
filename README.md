@@ -35,16 +35,23 @@ src="https://img.shields.io/github/followers/shubhrajyoti-gupta?logo=github&styl
 
 ### 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrajyoti-gupta&layout=compact&langs_count=6)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
 
 
-### ⭐ Top Repositories
+### ⭐ Projects
 
-![Job Portal System](https://github-readme-stats.vercel.app/api/pin/?username=shubhrajyoti-gupta&repo=Job-Portal-System)
+🧑‍💼 **Job Portal System**  
+Java • Spring • Hibernate • JWT  
+👉 https://github.com/shubhrajyoti-gupta/Job-Portal-System
 
-![Notepad Desktop App](https://github-readme-stats.vercel.app/api/pin/?username=shubhrajyoti-gupta&repo=Notepad-desktop-app)
+📝 **Notepad Desktop App**  
+Java • Swing  
+👉 https://github.com/shubhrajyoti-gupta/Notepad-desktop-app
 
-![Solar Monitor](https://github-readme-stats.vercel.app/api/pin/?username=shubhrajyoti-gupta&repo=SolarMonitor)
-
-
+☀️ **Solar Monitor**  
+Java • Backend  
+👉 https://github.com/shubhrajyoti-gupta/SolarMonitor
